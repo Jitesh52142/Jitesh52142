@@ -53,18 +53,15 @@ I'm JITESH 😉 I'm passionate about data science.
 
 ---
 
-## ⚡ GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitesh52142&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitesh52142&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -72,13 +69,13 @@ I'm JITESH 😉 I'm passionate about data science.
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh52142&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh52142&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Contribution Card
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Jitesh52142" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" />
 </p>
