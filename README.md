@@ -5,11 +5,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Automation+Engineering;Data+Science;Deep+Learning;Natural+Language+Processing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Automation+Engineering;Data+Science;Deep+Learning;Natural+Language+Processing" alt="Intro Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding animation"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Animation"/>
 </p>
 
 ---
@@ -20,11 +20,11 @@
   <a href="https://instagram.com/jitesh_bawaskar">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:jiteshbawaskar05@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -38,12 +38,12 @@
 
 ## 🌟 Current Status
 
-- ⚙️ Actively working on **real AI/ML projects, automation systems, and production apps**
-- 🤖 Building **AI agents, n8n automation workflows, FastAPI/Flask backends**
-- 📘 Learning **Machine Learning, NLP, Big Data, and Cloud**
-- 🔍 Strong interests in **Data Analysis, Predictive Modelling, and Automation**
-- 💼 Open to roles in **AI Engineering, Automation, Backend, and Analytics**
-- 💬 Helping people with **coding, ML prep, project guidance & placements**
+- ⚙️ Working on **real AI/ML products**, automation systems & deployment-ready apps  
+- 🤖 Building **AI Agents, n8n automation pipelines, FastAPI/Flask API systems**  
+- ✨ Strong skills in **ML, NLP, data modeling, backend systems & cloud tools**  
+- 🔍 Love working on **Predictive Modeling, Data Analysis, Automation**  
+- 💼 Open to roles in **AI Engineering, Automation, Backend, Analytics**  
+- 💬 Helping people with **coding, ML guidance, project building & placements**
 
 ---
 
@@ -79,12 +79,12 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" width="49%" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" width="49%" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -92,8 +92,8 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" width="45%" alt="Top languages by repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" width="45%" alt="Top languages by commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" width="45%" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" width="45%" alt="Top Languages by Commit"/>
 </p>
 
 ---
@@ -101,5 +101,5 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
