@@ -80,7 +80,9 @@ Data Analytics • REST APIs • Cloud Deployments • Workflow Orchestration
 ### 🌐 Backend / Web Frameworks
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" alt="Flask"/>
+  <!-- Fixed Flask Icon (visible on dark mode) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="70" alt="Flask"/>
+
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="90" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" alt="Streamlit"/>
