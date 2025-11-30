@@ -5,11 +5,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Automation+Engineering;Data+Science;Deep+Learning;Natural+Language+Processing" alt="Intro Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Automation+Engineering;Data+Science;Deep+Learning;Natural+Language+Processing" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding Animation"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
 </p>
 
 ---
@@ -17,18 +17,10 @@
 ## 📬 How to Reach Me
 
 <p align="center">
-  <a href="https://instagram.com/jitesh_bawaskar">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:jiteshbawaskar05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://jiteshportfolio.space">
-    <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://instagram.com/jitesh_bawaskar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:jiteshbawaskar05@gmail.com"><img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jiteshportfolio.space"><img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -36,18 +28,11 @@
 ## 🌟 Current Status
 
 - ⚙️ Working on **real AI/ML products**, automation systems & deployment-ready apps  
-- 🤖 Building **AI Agents, n8n automation pipelines, FastAPI/Flask/Django backends**  
-- 📘 Leveling up in **ML, NLP, Big Data & Cloud**  
-- 🔍 Focused on **Predictive Modelling, Data Analytics & Automation Engineering**  
-- 💼 Open to roles in **AI Engineering, Automation, Backend & Analytics**  
-- 💬 Helping others with **coding, ML prep, project roadmaps & placements**
-
----
-
-## 🧠 Core Skills
-
-Automation • Machine Learning • NLP • LLMs • Generative AI •  
-Data Analytics • REST APIs • Cloud Deployments • Workflow Orchestration
+- 🤖 Building **AI Agents, n8n pipelines, FastAPI/Flask/Django backends**  
+- 📘 Learning **ML, NLP, Big Data, Cloud**  
+- 🔍 Strong focus on **Predictive Modelling & Automation Engineering**  
+- 💼 Open to **AI Engineering, Backend, Automation, Analytics**  
+- 💬 Helping others with **coding, ML prep, project guidance & placements**
 
 ---
 
@@ -66,7 +51,7 @@ Data Analytics • REST APIs • Cloud Deployments • Workflow Orchestration
 
 ---
 
-### 🧠 AI / ML Frameworks
+### 🤖 AI / ML Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -77,13 +62,17 @@ Data Analytics • REST APIs • Cloud Deployments • Workflow Orchestration
 
 ---
 
-### 🌐 Backend / Web Frameworks
+### 🌐 Backend / Web Frameworks (Flask Fixed ✔)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+  <!-- Visible Flask Icon PNG -->
+  <img src="https://raw.githubusercontent.com/Jitesh52142/logo-host/main/flask-white.png" width="70" alt="Flask"/>
+
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </p>
 
 ---
@@ -105,8 +94,8 @@ Data Analytics • REST APIs • Cloud Deployments • Workflow Orchestration
 ### 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" height="180"/>
 </p>
 
 ---
@@ -114,9 +103,9 @@ Data Analytics • REST APIs • Cloud Deployments • Workflow Orchestration
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
