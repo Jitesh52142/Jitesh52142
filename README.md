@@ -104,9 +104,6 @@
     <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
     </a>
-    <a href="https://n8n.io" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/n8n-1.svg" width="40"/>
-    </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
     </a>
