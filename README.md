@@ -1,29 +1,45 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#58a6ff;">JITESH</span></h1>
 
-I'm JITESH 😉 I'm passionate about data science.
+<h3 align="center">🚀 AI & Data Science Enthusiast | ML Practitioner | Tech Explorer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Artificial+Intelligence;Data+Science;Data+Analyst)](https://git.io/typing-svg)
+<br/>
 
-### How to reach me:
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jitesh_bawaskar)
-<img src="https://img.shields.io/badge/-jiteshbawaskar05@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white">
-<a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
-<img src="https://img.shields.io/badge/jitesh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Natural+Language+Processing" alt="Typing SVG" />
+</p>
 
 ---
 
-### Current Status Quo:
+## 📬 How to Reach Me
 
-- 💼 I’m pursuing <strong>B.Tech</strong> in <strong>Artificial Intelligence and Data Science</strong>.
-- 🔭 I’m currently working on <strong>Data Science</strong> and <strong>Data Analysis</strong>.
-- 🌱 I’m currently learning <strong>Machine Learning, Natural Language Processing, and Big Data</strong>.
-- 🤔 My research interests are in <strong>Data Analysis and Big Data</strong>.
-- 🔍 I’m looking for career opportunities in the <strong>IT, E-commerce, and banking</strong> industry.
-- 💬 Feel free to discuss with me about <strong>resources for Coding and placements</strong>.
+<p align="left">
+  <a href="https://instagram.com/jitesh_bawaskar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:jiteshbawaskar05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<h2> Languages and Tools </h2>
+## 🌟 Current Status
+
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
+- ⚙️ Working on **Data Science**, **ML projects**, and **automation**
+- 📘 Learning **Machine Learning**, **NLP**, and **Big Data**
+- 🔍 Research interests: **Data Analysis & Predictive Modelling**
+- 💼 Exploring roles in **IT**, **E-commerce**, **Analytics**, and **Banking**
+- 💬 Open to helping with **coding, placements, ML roadmaps & resources**
+
+---
+
+<h2>🛠️ Languages and Tools</h2>
 
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </a>
@@ -69,7 +85,8 @@ I'm JITESH 😉 I'm passionate about data science.
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh52142&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" />
 </p>
 
 ---
