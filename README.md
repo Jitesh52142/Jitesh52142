@@ -17,10 +17,18 @@
 ## 📬 How to Reach Me
 
 <p align="center">
-  <a href="https://instagram.com/jitesh_bawaskar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:jiteshbawaskar05@gmail.com"><img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jiteshportfolio.space"><img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://instagram.com/jitesh_bawaskar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:jiteshbawaskar05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://jiteshportfolio.space">
+    <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -65,11 +73,7 @@
 ## 🌐 Backend / Web Frameworks
 
 <p align="center">
-
-  <!-- Flask FIXED — Local Repo PNG -->
-  <img src="https://raw.githubusercontent.com/jitesh52142/jitesh52142/main/assets/icons/flask.png" 
-       width="70" alt="Flask"/>
-
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
