@@ -47,72 +47,31 @@
 
 ---
 
-<h2>🛠️ Languages and Tools</h2>
+## 🛠️ Languages and Tools
 
-<p align="left">
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-    </a>
-    <a href="https://numpy.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-    </a>
-    <a href="https://huggingface.co/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40"/>
-    </a>
-    <a href="https://spacy.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="50"/>
-    </a>
-    <a href="https://fasttext.cc/" target="_blank">
-        <img src="https://fasttext.cc/img/fasttext-logo-color-web.png" width="70"/>
-    </a>
-    <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/_static/logo_dark.svg" width="60"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="70"/>
-    </a>
-    <a href="https://docs.streamlit.io/" target="_blank">
-        <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="90"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-    </a>
-    <a href="https://azure.microsoft.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-    </a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="45" alt="HuggingFace"/>
+  <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="70" alt="spaCy"/>
+  <img src="https://fasttext.cc/img/fasttext-logo-color-web.png" width="90" alt="fastText"/>
+  <img src="https://matplotlib.org/_static/logo_dark.svg" width="60" alt="matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" alt="seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="90" alt="FastAPI"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="45" alt="n8n"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" alt="Azure"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" alt="GCP"/>
 </p>
 
 ---
@@ -120,12 +79,12 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" width="49%" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -133,8 +92,8 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" width="45%" alt="Top languages by repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" width="45%" alt="Top languages by commit"/>
 </p>
 
 ---
@@ -142,5 +101,5 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" alt="Contribution graph"/>
 </p>
