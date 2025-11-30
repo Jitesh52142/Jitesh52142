@@ -1,14 +1,20 @@
-<!-- ======================= HERO BANNER ========================= -->
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE BANNER                  -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jitesh52142/jitesh52142/main/assets/banner.png"
+  <!-- This placeholder will show until you upload banner.png -->
+  <img src="https://i.imgur.com/8JmNQ1S.jpeg"
        alt="Jitesh Banner"
-       style="border-radius: 12px; width: 100%;"/>
+       width="100%"
+       style="border-radius: 12px;">
 </p>
 
 <br/>
 
-<!-- ======================= INTRO HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                        INTRO SECTION                       -->
+<!-- ========================================================= -->
 
 <h1 align="center">Hello 👋, I'm <span style="color:#58a6ff;">JITESH BAWASKAR</span></h1>
 
@@ -22,36 +28,36 @@
 
 ---
 
-<!-- ======================= ABOUT ME ========================= -->
+# 🧑‍💻 About Me
 
-## 🧑‍💻 About Me
-
-I'm Jitesh, an **AI & Automation Engineer** who builds scalable systems, intelligent agents, and production-grade applications.
+I'm **Jitesh**, an AI & Automation Engineer building real-world ML systems, automation pipelines, and scalable backend apps.
 
 ### ✨ Highlights
 
-- 🤖 Working on real **AI/ML, automation & backend** projects  
-- ⚙️ Building **AI agents, n8n workflows, FastAPI/Flask/Django backends**  
-- 📊 Skilled in **data analysis, predictive modelling & real deployments**  
-- 🧠 Exploring **cloud, APIs, DevOps & automation pipelines**  
-- 💬 Helping with **ML guidance, coding mentorship & interview prep**
+- 🤖 Building **AI agents, ML workflows, & automation systems**
+- ⚙️ Experienced with **FastAPI, Flask, Django, Streamlit**
+- 🔗 Automation using **n8n, APIs, integrations**
+- 📊 Strong in **data analysis & predictive modelling**
+- ☁️ Exploring **Cloud, DevOps & scalable deployments**
+- 💬 Helping with **coding, ML projects, interview prep**
 
 ---
 
-<!-- ======================= HOW TO REACH ME ========================= -->
-
-## 📬 How to Reach Me
+# 📬 How to Reach Me
 
 <p align="center">
   <a href="https://instagram.com/jitesh_bawaskar">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
   <a href="mailto:jiteshbawaskar05@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://jiteshportfolio.space">
     <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -59,11 +65,9 @@ I'm Jitesh, an **AI & Automation Engineer** who builds scalable systems, intelli
 
 ---
 
-<!-- ======================= LANGUAGES & TOOLS ========================= -->
+# 🛠️ Languages & Tools
 
-## 🛠️ Languages & Tools
-
-### 🧵 Languages & Databases
+## 🧵 Languages & Databases
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -73,9 +77,7 @@ I'm Jitesh, an **AI & Automation Engineer** who builds scalable systems, intelli
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
-
-### 🤖 AI / ML Frameworks
+## 🤖 AI / ML Frameworks
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -83,9 +85,7 @@ I'm Jitesh, an **AI & Automation Engineer** who builds scalable systems, intelli
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
----
-
-### 🌐 Backend / Web Frameworks
+## 🌐 Backend / Web Frameworks
 <p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -93,9 +93,7 @@ I'm Jitesh, an **AI & Automation Engineer** who builds scalable systems, intelli
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
----
-
-### ⚙️ Tools, Automation & Cloud
+## ⚙️ Tools, Automation & Cloud
 <p align="center">
 <img src="https://img.shields.io/badge/n8n.io-FE4F5A?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -106,7 +104,7 @@ I'm Jitesh, an **AI & Automation Engineer** who builds scalable systems, intelli
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" />
