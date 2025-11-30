@@ -7,11 +7,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Automation+Engineering;Data+Science;Deep+Learning;Natural+Language+Processing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Automation+Engineering;Data+Science;Deep+Learning;Natural+Language+Processing" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding animation"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800" alt="coding animation"/>
 </p>
 
 ---
