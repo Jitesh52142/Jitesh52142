@@ -62,11 +62,11 @@
 
 ---
 
-### 🌐 Backend / Web Frameworks 
+## 🌐 Backend / Web Frameworks
 
 <p align="center">
-  <!-- Flask (PNG from GitHub Explore — always visible) -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" width="65" alt="Flask"/>
+  <!-- Flask FIXED – white PNG, always visible -->
+  <img src="https://raw.githubusercontent.com/PKief/vscode-flask-icon-theme/master/icons/flask_light.png" width="70" alt="Flask"/>
 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -75,7 +75,7 @@
 
 ---
 
-### ⚙️ Tools, Automation & Cloud
+## ⚙️ Tools, Automation & Cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n.io-FE4F5A?style=for-the-badge&logo=n8n&logoColor=white"/>
