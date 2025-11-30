@@ -36,7 +36,7 @@
 ## 🌟 Current Status
 
 - ⚙️ Working on **real AI/ML products**, automation systems & deployment-ready apps  
-- 🤖 Building **AI agents, n8n automation pipelines, FastAPI/Flask/Django backends**  
+- 🤖 Building **AI Agents, n8n automation pipelines, FastAPI/Flask/Django backends**  
 - 📘 Leveling up in **ML, NLP, Big Data & Cloud**  
 - 🔍 Focused on **Predictive Modelling, Data Analytics & Automation Engineering**  
 - 💼 Open to roles in **AI Engineering, Automation, Backend & Analytics**  
@@ -46,14 +46,14 @@
 
 ## 🧠 Core Skills
 
-Automation • Machine Learning • Deep Learning • NLP • LLMs • Generative AI •  
-Data Analytics • Data Science • REST APIs • Cloud Deployments
+Automation • Machine Learning • NLP • LLMs • Generative AI •  
+Data Analytics • REST APIs • Cloud Deployments • Workflow Orchestration
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### 🧾 Languages & Databases
+### 📄 Languages & Databases
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
@@ -64,29 +64,34 @@ Data Analytics • Data Science • REST APIs • Cloud Deployments
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
 </p>
 
+---
+
 ### 🧠 AI / ML Frameworks
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="45" alt="LangChain"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" width="45" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="32" alt="MLflow"/>
 </p>
+
+---
 
 ### 🌐 Backend / Web Frameworks
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" alt="Flask"/>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="90" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="0" alt=""/> <!-- spacer to keep row height -->
 </p>
+
+---
 
 ### ⚙️ Tools, Automation & Cloud
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="45" alt="n8n"/>
+  <img src="https://img.shields.io/badge/n8n.io-FE4F5A?style=for-the-badge&logo=n8n&logoColor=white" height="32" alt="n8n"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" alt="AWS"/>
@@ -97,24 +102,21 @@ Data Analytics • Data Science • REST APIs • Cloud Deployments
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+### 🔥 Top Languages
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Repo"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Commit"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
 
-## 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
