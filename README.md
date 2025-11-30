@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#58a6ff;">JITESH</span></h1>
 
-<h3 align="center">🚀 AI & Data Science Enthusiast | ML Practitioner | Tech Explorer</h3>
+<h3 align="center">🚀 AI/ML Engineer | Automation Engineer | Tech Explorer</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Natural+Language+Processing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Automation+Engineering;Data+Science;Deep+Learning;Natural+Language+Processing" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,6 +24,10 @@
   <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://jiteshportfolio.space">
+    <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -31,11 +35,12 @@
 ## 🌟 Current Status
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- ⚙️ Working on **Data Science**, **ML projects**, and **automation**
-- 📘 Learning **Machine Learning**, **NLP**, and **Big Data**
-- 🔍 Research interests: **Data Analysis & Predictive Modelling**
-- 💼 Exploring roles in **IT**, **E-commerce**, **Analytics**, and **Banking**
-- 💬 Open to helping with **coding, placements, ML roadmaps & resources**
+- ⚙️ Actively working on **real AI/ML projects, automation systems, and production apps**
+- 🤖 Building **AI Agents, Automation Workflows (n8n), FastAPI/Flask apps**
+- 📘 Learning **Machine Learning, NLP, Big Data, and Cloud**
+- 🔍 Strong interests in **Data Analysis, Predictive Modelling, Automation**
+- 💼 Open to roles in **AI Engineering, Automation, Backend, and Analytics**
+- 💬 Helping people with **coding, ML prep, project guidance & placements**
 
 ---
 
@@ -61,7 +66,7 @@
     <a href="https://docs.streamlit.io/" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" width="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> </a>
-    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> </a>
+    <a href="https://n8n.io" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/n8n-1.svg" width="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> </a>
     <a href="https://azure.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/> </a>
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> </a>
