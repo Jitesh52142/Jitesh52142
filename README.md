@@ -62,7 +62,7 @@
 
 ---
 
-### 🌐 Backend / Web Frameworks (Fully Working – Flask Fixed)
+### 🌐 Backend / Web Frameworks 
 
 <p align="center">
   <!-- Flask (PNG from GitHub Explore — always visible) -->
