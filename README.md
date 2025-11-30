@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#58a6ff;">JITESH</span></h1>
+<!-- Hero / Intro -->
+
+<h1 align="center">Hello 👋, I'm <span style="color:#58a6ff;">JITESH BAWASKAR</span></h1>
 
 <h3 align="center">🚀 AI/ML Engineer • Automation Engineer • Tech Explorer</h3>
 
@@ -9,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding animation"/>
 </p>
 
 ---
@@ -33,14 +35,17 @@
 
 ---
 
-## 🌟 Current Status
+## 👨‍💻 About Me
 
-- ⚙️ Working on **real AI/ML products**, automation systems & deployment-ready apps  
-- 🤖 Building **AI Agents, n8n pipelines, FastAPI/Flask/Django backends**  
-- 📘 Learning **ML, NLP, Big Data, Cloud**  
-- 🔍 Strong focus on **Predictive Modelling & Automation Engineering**  
-- 💼 Open to **AI Engineering, Backend, Automation, Analytics**  
-- 💬 Helping others with **coding, ML prep, project guidance & placements**
+I’m Jitesh, an **AI & Automation Engineer** from India who loves building real-world systems – from ML-powered apps to workflow automations and backend APIs.
+
+### ✨ Highlights
+
+- 🧠 Work across **AI/ML, automation, and backend engineering**
+- 🤖 Build **AI agents, n8n workflows, FastAPI/Flask/Django backends**
+- 📊 Strong focus on **data analysis, predictive modelling & real deployments**
+- ☁️ Comfortable with **cloud, APIs, monitoring & production pipelines**
+- 🙌 Enjoy helping with **ML roadmaps, coding guidance & placements**
 
 ---
 
@@ -70,7 +75,7 @@
 
 ---
 
-## 🌐 Backend / Web Frameworks
+### 🌐 Backend / Web Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -81,7 +86,7 @@
 
 ---
 
-## ⚙️ Tools, Automation & Cloud
+### ⚙️ Tools, Automation & Cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n.io-FE4F5A?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -95,11 +100,19 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 Top Languages
+### 🔥 Streak & Contributions Matrix
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+### 📚 Language Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Commit"/>
 </p>
 
 ---
@@ -107,9 +120,9 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitesh52142&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
