@@ -62,17 +62,15 @@
 
 ---
 
-### 🌐 Backend / Web Frameworks (Flask Fixed ✔)
+### 🌐 Backend / Web Frameworks (Fully Working – Flask Fixed)
 
 <p align="center">
-
-  <!-- Visible Flask Icon PNG -->
-  <img src="https://raw.githubusercontent.com/Jitesh52142/logo-host/main/flask-white.png" width="70" alt="Flask"/>
+  <!-- Flask (PNG from GitHub Explore — always visible) -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" width="65" alt="Flask"/>
 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
 </p>
 
 ---
