@@ -92,24 +92,15 @@
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" alt="Top Languages by Repo" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jitesh52142&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitesh52142&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jitesh52142&theme=radical" height="180" alt="Top Languages by Commit"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jitesh52142&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
