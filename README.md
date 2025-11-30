@@ -65,8 +65,10 @@
 ## 🌐 Backend / Web Frameworks
 
 <p align="center">
-  <!-- Flask FIXED – white PNG, always visible -->
-  <img src="https://raw.githubusercontent.com/PKief/vscode-flask-icon-theme/master/icons/flask_light.png" width="70" alt="Flask"/>
+
+  <!-- Flask FIXED — Local Repo PNG -->
+  <img src="https://raw.githubusercontent.com/jitesh52142/jitesh52142/main/assets/icons/flask.png" 
+       width="70" alt="Flask"/>
 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
