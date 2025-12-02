@@ -25,7 +25,7 @@
   <a href="mailto:jiteshbawaskar05@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jitesh-bawaskar-44a908293/">
+  <a href="www.linkedin.com/in/jitesh-bawaskar-ab3a06359">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://jiteshportfolio.space">
